@@ -1,4 +1,4 @@
-# laravel-todo-app
+# laravel-todo
 Follow-along app from a tutorial that introduces the features of the Laravel 5 framework in php 5.
 
 Laravel Screencasts (96 min):
